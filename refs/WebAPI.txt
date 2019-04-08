@@ -1,0 +1,5 @@
+CustomerAPI
+
+Customer Get(Customer id)
+IEnumerable<Customer> Get(IEnumerable<string> ids)
+void Post(Customer customer)
